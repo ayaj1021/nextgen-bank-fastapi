@@ -4,6 +4,9 @@
 .envs/*
 !.envs/.env.example
 
+# Logs
+src/backend/app/logs/*
+!src/backend/app/logs/.gitkeep
 
 # Python-generated files
 __pycache__/
